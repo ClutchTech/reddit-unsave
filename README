@@ -1,0 +1,12 @@
+DESCRIPTION
+
+	This is only created to delete all saves/favorites for a user account on Reddit.
+
+USAGE
+
+	python3 reddit-fav-removal <username> <password>
+	python3 reddit-fav-removal tom badpassword
+
+EFFECTIVE DATA:
+
+	May 15, 2018
